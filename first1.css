@@ -1,0 +1,53 @@
+
+
+.head {
+    width: 1000px;
+    height: 300;
+    text-align: center;
+    background-color: lightgrey;
+    font-size: larger;
+    font-weight: 700;
+    margin-left: auto;
+    margin-right: auto;
+
+   
+}
+
+.first {
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+}
+.photo {
+    
+    height: 90%;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.second {
+
+    width: 100%;
+    height: 200px;
+    background-color: rgb(235, 226, 147);
+    font-family: 'Corinthia', cursive;  
+    
+}
+.myskills {
+    text-align: center;
+
+}
+
+.third {
+    width: 100%;
+    height: 200px;
+    background-color: rgb(7, 201, 191);
+    margin-top: 1%;
+    
+}
+
+
